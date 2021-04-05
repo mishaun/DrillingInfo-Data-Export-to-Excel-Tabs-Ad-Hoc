@@ -12,7 +12,7 @@ Pandas
 
 # Code Snippets
 
-'''python
+```python
 
 for name in bookNames:
     
@@ -45,7 +45,7 @@ for name in bookNames:
     #closing workbook after adding all sheets necessary
     writer.close()
 
-'''
+```
 
 
 # Screenshots

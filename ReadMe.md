@@ -56,8 +56,8 @@ for name in bookNames:
 
 ---
 
-![Raw Data Preview](
-Screenshots/Output Data Sample.png)
+![Raw Data Preview]
+(Screenshots/Output Data Sample.png)
 
 
 ---
@@ -70,7 +70,7 @@ testing2
 
 ![test2](https://miro.medium.com/proxy/1*YgtCXuRGmPfPg2PogXVCfQ.png)
 
-testing2
+testing3
 
 ![test2]
 (https://miro.medium.com/proxy/1*YgtCXuRGmPfPg2PogXVCfQ.png)

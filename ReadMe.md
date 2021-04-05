@@ -51,11 +51,13 @@ for name in bookNames:
 # Screenshots
 
 <h3> Raw Data Excel Screenshot </h3>
-![Raw Data Preview](Screenshots/Raw Data Preview.png)
+![Raw Data Preview]
+(Screenshots/Raw Data Preview.png)
 
 ---
 
-![Raw Data Preview](Screenshots/Output Data Sample.png)
+![Raw Data Preview](
+Screenshots/Output Data Sample.png)
 
 
 ---
@@ -63,4 +65,13 @@ for name in bookNames:
 testing 
 
 ![test](Raw Data Preview.png)
+
+testing2
+
+![test2](https://miro.medium.com/proxy/1*YgtCXuRGmPfPg2PogXVCfQ.png)
+
+testing2
+
+![test2]
+(https://miro.medium.com/proxy/1*YgtCXuRGmPfPg2PogXVCfQ.png)
 

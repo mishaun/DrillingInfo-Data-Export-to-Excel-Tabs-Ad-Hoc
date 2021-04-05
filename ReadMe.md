@@ -51,9 +51,11 @@ for name in bookNames:
 # Screenshots
 
 <h3> Raw Data Excel Screenshot </h3>
+
 ![Raw Data Preview](Screenshots/Raw_Data_Preview.png)
 
 ---
+<h3> Output Data Excel Screenshot </h3>
 
-![Raw Data Preview](Screenshots/Output_Data_Sample.png)
+![Output Data Preview](Screenshots/Output_Data_Sample.png)
 

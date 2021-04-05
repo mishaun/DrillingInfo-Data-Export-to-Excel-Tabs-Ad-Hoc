@@ -51,27 +51,9 @@ for name in bookNames:
 # Screenshots
 
 <h3> Raw Data Excel Screenshot </h3>
-![Raw Data Preview]
-(Screenshots/Raw Data Preview.png)
+![Raw Data Preview](Screenshots/Raw_Data_Preview.png)
 
 ---
 
-![Raw Data Preview]
-(Screenshots/Output Data Sample.png)
-
-
----
-
-testing 
-
-![test](Raw Data Preview.png)
-
-testing2
-
-![test2](https://miro.medium.com/proxy/1*YgtCXuRGmPfPg2PogXVCfQ.png)
-
-testing3
-
-![test2]
-(https://miro.medium.com/proxy/1*YgtCXuRGmPfPg2PogXVCfQ.png)
+![Raw Data Preview](Screenshots/Output_Data_Sample.png)
 
